@@ -8,6 +8,7 @@ Here is some  [documentation](https://docs.sunfounder.com/projects/picar-v/en/la
 ## Current situation
 
 [Currently](https://docs.sunfounder.com/projects/picar-v/en/latest/components.html#robot-hats), the Raspberry is powerd with a [Robot hat](https://docs.sunfounder.com/projects/picar-v/en/latest/) (to [order](https://www.sunfounder.com/products/the-robot-hat-of-picar) it) but this comes with an disadvantage, that the power state of battery can't be monitored.
+
 ![Robot-HATS](readme/Robot-HATS.jpeg)
 
 1. **Digital ports**: 3-wire digital sensor ports, signal voltage: 3.3V, VCC voltage: 3.3V.
